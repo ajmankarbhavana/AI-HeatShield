@@ -1,0 +1,13 @@
+feature,importance
+heat_pressure,0.34544992
+built_up,0.08041961
+ndbi,0.07221217
+temperature_anomaly,0.06311584
+temperature,0.062312525
+built_vegetation_ratio,0.06112004
+cooling_potential,0.06027494
+ndvi,0.058194213
+lst,0.05410479
+vegetation,0.050084617
+ndwi,0.04712824
+humidity,0.045583073
